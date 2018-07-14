@@ -1,1 +1,1 @@
-worker: java DiscordUtil.java
+worker: java Main.java
