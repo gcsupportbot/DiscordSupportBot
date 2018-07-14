@@ -2,7 +2,7 @@
   "name": "GCSupport",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "main.js",
   "scripts": {
     "start": "java DiscordSupportBot.java"
   },
