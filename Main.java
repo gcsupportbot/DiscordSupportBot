@@ -1,4 +1,4 @@
-package github.scarsz.discordsupportbot;
+package github.gcsupportbot.discordsupportbot;
 
 public class Main {
 
