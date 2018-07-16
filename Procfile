@@ -1,1 +1,1 @@
-web: java -jar target/DiscordSupportBot.java
+worker: java -jar target/DiscordSupportBot.java
