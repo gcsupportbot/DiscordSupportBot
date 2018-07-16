@@ -1,1 +1,1 @@
-worker: java -jar target/Main.java
+worker: java -jar target/DiscordSupportBot.java
