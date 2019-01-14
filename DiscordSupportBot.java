@@ -105,7 +105,7 @@ public class DiscordSupportBot {
                     .setAutoReconnect(true)
                     .setBulkDeleteSplittingEnabled(false)
                     .setGame(Game.of("with tickets"))
-                    .setToken(NTM0NDUyMzU2MjMwOTM4NjY1.Dx5zMA.WRxUyOePCxf7hoXjYlEZVsEXQy4)
+                    .setToken("NTM0NDUyMzU2MjMwOTM4NjY1.Dx5zMA.WRxUyOePCxf7hoXjYlEZVsEXQy4")
                     .buildBlocking();
         } catch (LoginException | InterruptedException | RateLimitedException e) {
             System.out.println("Failed to login to Discord: " + e.getMessage());
